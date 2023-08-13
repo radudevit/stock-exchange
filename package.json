@@ -2,7 +2,7 @@
   "name": "stock-exchange",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://radudevit.github.io",
+  "homepage": "https://radudevit.github.io/stock-exchange/",
   "type": "module",
   "scripts": {
     "dev": "vite",
